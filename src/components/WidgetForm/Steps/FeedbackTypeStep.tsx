@@ -9,7 +9,7 @@ export function FeedbackTypeStep( props: FeedbackTypeStepProps ) {
     return(
         <>
 
-            <header className="flex flex-row">
+            <header >
                 <span className="text-xl leading-6">Deixe seu Feedback!</span>
 
                 <CloseButton />
